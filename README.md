@@ -3,7 +3,7 @@
 <h4 align="center"></h4>
 
 
-<img align="right" alt="Img1" width="400" src=https://cdn.discordapp.com/attachments/1076586246337462384/1151953536087752715/male-scientist-doing-laboratory-research-5685878-4745589.gif>
+<img align="right" alt="Img1" width="400" src=https://cdn.discordapp.com/attachments/1076586246337462384/1151958202028654682/09.optimized.gif>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramanujbht&label=Profile%20views&color=0e75b6&style=flat" alt="ramanujbht" /> </p>
 
 - 🔭 I’m currently working on [Health Harmony](github.com/RamanujBht/Health_Harmonics)
