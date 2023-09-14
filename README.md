@@ -1,4 +1,4 @@
-![image](https://cdn.discordapp.com/attachments/1076586246337462384/1151990845038415973/LinkedIn_Banner_3.png)
+![image](https://cdn.discordapp.com/attachments/1076586246337462384/1151992308699516978/LinkedIn_Banner_3.png)
 <h3 align="center">A passionate student pursuing a degree in Biomedical Engineering at VIT Bhopal University. </h3>
 <h4 align="center"></h4>
 
