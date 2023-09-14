@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Health Harmony](github.com/RamanujBht/Health_Harmonics)
 
-- 🌱 I’m currently learning **Basics of Bioengineering, Java and Phyton**
+- 🌱 I’m currently learning **Bioengineering, Java and Phyton**
 
 - 📫 How to reach me **ramanujbht@gmail.com**
 
