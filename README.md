@@ -1,4 +1,4 @@
-![image](https://cdn.discordapp.com/attachments/1076586246337462384/1151992308699516978/LinkedIn_Banner_3.png)
+![image](https://cdn.discordapp.com/attachments/1076586246337462384/1184945590623285328/White_Minimalist_Profile_LinkedIn_Banner.png)
 <h3 align="center">A passionate student pursuing a degree in Agriculture at UAS Dharwad. </h3>
 <h4 align="center"></h4>
 
@@ -6,7 +6,7 @@
 <img align="right" alt="Img1" width="400" src=https://cdn.discordapp.com/attachments/1076586246337462384/1151958202028654682/09.optimized.gif>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramanujbht&label=Profile%20views&color=0e75b6&style=flat" alt="ramanujbht" /> </p>
 
-- 🔭 I’m currently working on [Health Harmony](github.com/RamanujBht/Health_Harmonics)
+- 🔭 I’m currently working on [GeoQuest](github.com/RamanujBht/GeoQuest)
 
 - 🌱 I’m currently learning **Bioengineering, Java and Phyton**
 
